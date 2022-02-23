@@ -52,5 +52,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/jjosegomez/TwitterApp/blob/main/walkthrough-pt1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img style:"width: 300px" src='https://github.com/jjosegomez/TwitterApp/blob/main/walkthrough-pt1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
